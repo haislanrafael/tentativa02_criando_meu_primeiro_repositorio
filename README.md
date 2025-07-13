@@ -1,0 +1,2 @@
+# tentativa02_criando_meu_primeiro_repositorio
+minha segunda tentativa
